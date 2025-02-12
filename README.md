@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning on frontend dev
 - 📫 How to reach me It's a secret for now
 - 😄 Pronouns: The Lord
-- ⚡ Fun fact: I will make money on everything
+
